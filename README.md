@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Duarteka
-- 👀 I’m a Front end development, UX/UI and Design System
+- 👀 I’m a Front end developer and UX/UI Designer 
 - 🌱 I’m currently learning Node js
 - 📫 How to reach me https://kaptemia.com
 
