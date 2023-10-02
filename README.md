@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duarteka
-- 👀 I’m a Front end developer and UX/UI Designer 
-- 🌱 I’m currently learning Node js
-- 📫 How to reach me https://kaptemia.com
+- 👀 I’m a web designer and Frontend developer 
+- 🌱 I’m currently learning WEBGL
+- 📫 How to reach me https://duarteka.eu
 
 <!---
 Duarteka/Duarteka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
